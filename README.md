@@ -1,2 +1,2 @@
-# m.demarne.name
-Personal website: http://m.demarne.name.
+# m.demarne.ch
+Personal website: http://m.demarne.ch.
